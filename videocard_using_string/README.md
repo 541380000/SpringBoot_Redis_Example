@@ -1,0 +1,3 @@
+- In this example, video card stores the infomation to be displayed at the main page of a video website.
+- We assume the list will change only once a day, so the json data is cached in json and is returned to client directly.
+- We can also cache it using List, see example `hot-goods-list` 
